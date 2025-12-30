@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning fullstack software development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me using my e-mail : casoeries@gmail.com
-- 😄 Pronouns: he/him/me/you/i/male/man
-- ⚡ Fun fact: a bit loco and listens to Ren Gill
+- 😄 Pronouns: he/him
+- ⚡ Fun fact:
 
 <!---
 Gojo-Satoru999/Gojo-Satoru999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
